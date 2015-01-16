@@ -24,6 +24,7 @@ import org.apache.mahout.math.list.DoubleArrayList;
 import org.apache.mahout.math.map.OpenIntDoubleHashMap;
 import org.apache.mahout.math.map.OpenIntDoubleHashMap.MapElement;
 import org.apache.mahout.math.set.AbstractSet;
+import it.unimi.dsi.fastutil.ints.Int2DoubleOpenHashMap;
 
 
 /** Implements vector that only stores non-zero doubles */

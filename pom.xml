@@ -144,7 +144,6 @@
 
   <dependencyManagement>
     <dependencies>
-
       <!-- our modules -->
 
       <dependency>
